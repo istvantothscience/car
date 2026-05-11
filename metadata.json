@@ -1,0 +1,6 @@
+{
+  "name": "Stopping Distance Simulator & AI Tutor",
+  "description": "An interactive physics simulation for Year 6 science regarding reaction times and braking distances, featuring an embedded AI tutor that guides students using current simulation context.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
